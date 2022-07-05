@@ -22,14 +22,14 @@ body{
     border-radius: 0px 0px 25px 25px ;
   }
   td{
-    padding: 5px;
+    padding: 3px;
   }
   .b1 {
     background-color: green;
     border: 0px;
     color: white;
     height: 20px;
-    margin-left: 6px;
+    margin-left: 12px;
   }
   
   .b2 {
