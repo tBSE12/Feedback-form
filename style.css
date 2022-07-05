@@ -1,0 +1,29 @@
+body{
+    width: 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+  }
+  .header{
+    background-color: orange;
+    height: 50px;
+    width: 500px;
+    text-align: center;
+  }
+.body{
+    background-color: black;
+    color: orange;
+    text-align: justify;
+  }
+  .b1 {
+    background-color: green;
+    border: 0px;
+    color: white;
+    height: 30px;
+    margin-left: 1px;
+  }
+  
+  .b2 {
+    background-color: red;
+    border: 0px;
+    color: white;
+    height: 30px;
+  }
